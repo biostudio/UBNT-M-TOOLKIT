@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/biostudio/UBNT-M-TOOLKIT/releases/latest">
-    <img align="center" src="https://raw.githubusercontent.com/biostudio/UBNT-M-TOOLKIT/master/screenshot.png" alt="UBNT-M-TOOLKIT">
+    <img align="center" src="https://raw.githubusercontent.com/biostudio/UBNT-M-TOOLKIT/main/screenshot.png" alt="UBNT-M-TOOLKIT">
   </a>
 </p>
 
